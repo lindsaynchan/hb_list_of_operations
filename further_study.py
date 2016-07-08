@@ -144,7 +144,7 @@ def custom_index(input_list, value):
 
     """
     #loop, have it iterate through the list and compare the value with the item in the list,
-    #if equal print out our "count list" (which is out of the loop)
+    #if equal print out our "count list" (which is out of the loop  )
 
     return 0
 
